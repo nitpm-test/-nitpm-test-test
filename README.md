@@ -1,3 +1,13 @@
 # -nitpm-test-test
-le 3eme repo de test pour dev ce package manager de ses morts #lesLibsFonctionnentPas #NotYetImplemented
-SALUT 
+Repo nitpm-central
+
+Un owner
+
+Un contributeur qui est le compte utilisé par nitpm
+
+Le contributeur a forké le projet nitpm-central
+
+Commit sur le fork
+
+Pull request
+
