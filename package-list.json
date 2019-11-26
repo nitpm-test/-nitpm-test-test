@@ -45,16 +45,17 @@
 	}
 }, {
 	"package": {
-		"name": "test-package",
+		"name": "testPackage",
 		"tags": "test,package,nit",
 		"maintainer": "mJeenfizz",
 		"license": "Apache-2.0",
-		"desc": "test package for nitpm"
+		"desc": "test package for nitpm",
+		"import": "curl"
 	},
 	"upstream": {
-		"browse": "https://github.com/Jeanfrizz/test-package",
-		"git": "https://github.com/Jeanfrizz/test-package",
-		"git.directory": "/test-package",
+		"browse": "https://github.com/Jeanfrizz/testPackage",
+		"git": "https://github.com/Jeanfrizz/testPackage.git",
+		"git.directory": "https://github.com/Jeanfrizz/testPackage.git",
 		"homepage": "http://nitlanguage.org",
 		"issues": "https://github.com/nitlang/nit/issues"
 	}
