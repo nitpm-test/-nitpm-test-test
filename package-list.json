@@ -1,4 +1,3 @@
-
 [{
 	"package": {
 		"name": "gamnit",
@@ -41,6 +40,21 @@
 		"browse": "https://github.com/nitlang/nit/tree/master/lib/gamnit/",
 		"git": "https://github.com/nitlang/nit.git",
 		"git.directory": "lib/gamnit/",
+		"homepage": "http://nitlanguage.org",
+		"issues": "https://github.com/nitlang/nit/issues"
+	}
+}, {
+	"package": {
+		"name": "test-package",
+		"tags": "test,package,nit",
+		"maintainer": "mJeenfizz",
+		"license": "Apache-2.0",
+		"desc": "test package for nitpm"
+	},
+	"upstream": {
+		"browse": "https://github.com/Jeanfrizz/test-package",
+		"git": "https://github.com/Jeanfrizz/test-package",
+		"git.directory": "/test-package",
 		"homepage": "http://nitlanguage.org",
 		"issues": "https://github.com/nitlang/nit/issues"
 	}
