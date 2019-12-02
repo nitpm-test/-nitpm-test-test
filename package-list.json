@@ -75,4 +75,20 @@
 		"homepage": "http://nitlanguage.org",
 		"issues": "https://github.com/nitlang/nit/issues"
 	}
+}, {
+	"package": {
+		"name": "testPackage3",
+		"tags": "test,package,nit,chien",
+		"maintainer": "mJeenfizz",
+		"license": "Apache-2.0",
+		"desc": "test package for nitpm",
+		"import": "curl"
+	},
+	"upstream": {
+		"browse": "https://github.com/Jeanfrizz/testPackage",
+		"git": "https://github.com/Jeanfrizz/testPackage.git",
+		"git.directory": "https://github.com/Jeanfrizz/testPackage.git",
+		"homepage": "http://nitlanguage.org",
+		"issues": "https://github.com/nitlang/nit/issues"
+	}
 }]
