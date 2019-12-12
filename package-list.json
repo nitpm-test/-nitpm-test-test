@@ -94,7 +94,7 @@
 }, {
 	"package": {
 		"name": "testPackage4",
-		"tags": "test,package,nit,chat,chien,cheval",
+		"tags": "test,package,nit,chat,chien,cheval,chèvre",
 		"maintainer": "mJeenfizz",
 		"license": "Apache-2.0",
 		"desc": "test package for nitpm",
